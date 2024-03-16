@@ -1,0 +1,2 @@
+Hello this is my ch1 filr. to learn Git version control.
+Version: 0.0.0
